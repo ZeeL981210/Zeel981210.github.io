@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f6edac4.css",
+    "main.js": "/static/js/main.fc93d3a3.js",
+    "static/media/quicksand-latin-wght-normal.woff2": "/static/media/quicksand-latin-wght-normal.7b81366dd1c1fdcf3e33.woff2",
+    "static/media/quicksand-latin-ext-wght-normal.woff2": "/static/media/quicksand-latin-ext-wght-normal.29b81f31994ebebd9dc0.woff2",
+    "static/media/quicksand-vietnamese-wght-normal.woff2": "/static/media/quicksand-vietnamese-wght-normal.acc5504cdc3ebbf3aff4.woff2",
+    "index.html": "/index.html",
+    "main.5f6edac4.css.map": "/static/css/main.5f6edac4.css.map",
+    "main.fc93d3a3.js.map": "/static/js/main.fc93d3a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6edac4.css",
+    "static/js/main.fc93d3a3.js"
+  ]
+}
